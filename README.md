@@ -1,5 +1,5 @@
 # Hi! I'm Pedro 🎮
-### Indie Game Dev | Level Designer & Technical LD @ Unreal Engine 5
+### Indie Game Dev | Level Designer & Technical LD in Unreal Engine
 
 Welcome to my workspace! As an independent developer at **Red Torii Studio**, I have hands-on experience across every stage of the game development pipeline. Throughout various projects and team collaborations, I have specialized primarily in **level design, gameplay programming, and level scripting**.
 
