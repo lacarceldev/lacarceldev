@@ -15,6 +15,6 @@ I am fully open to joining a game studio where I can share, combine, and elevate
 
 | Project Name | Genre | Engine | Status | Year | Documentation |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Echoes** | Psychological Survival Horror | Unreal Engine 5 | Demo / Vertical Slice | 2026 | [Repository](./docs/GDD_VS_Echoes.pdf) |
-| **Masacre del Norte** | Narrative / Tactical 3rd-Person Stealth | Unreal Engine 5 | TFM Project | 2025 | [Repository](./docs/GDD_Masacre.pdf) |
+| **Echoes** | Psychological Survival Horror | Unreal Engine 5 | Demo / Vertical Slice | 2026 | [Repository](https://github.com/lacarceldev/echoes) |
+| **Masacre del Norte** | Narrative / Tactical 3rd-Person Stealth | Unreal Engine 5 | TFM Project | 2025 | [Repository](https://github.com/lacarceldev/masacre-del-norte) |
 | *[Next Project]* | *[TBD]* | *[TBD]* | *In Concept* | *Coming soon* | *Coming soon* |
