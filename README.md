@@ -13,8 +13,8 @@ I am fully open to joining a game studio where I can share, combine, and elevate
 
 ## 🗂️ Project Catalog
 
-| Project Name | Genre | Engine | Status | Year | Documentation |
+| Project Name | Genre | Engine | Studio | Year / Status | Documentation |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| **Echoes** | Psychological Survival Horror | UE5 | Demo / Vertical Slice | 2026 | [Repository](https://github.com/lacarceldev/echoes) |
+| **Echoes** | Psychological Survival Horror | UE5 | Demo / Red Torii Studio | 2026 Demo | [Repository](https://github.com/lacarceldev/echoes) |
 | **Masacre del Norte** | Narrative / Tactical 3rd-Person Stealth | UE5 | TFM Project | 2025 | [Repository](https://github.com/lacarceldev/masacre-del-norte) |
 | *[Next Project]* | *[TBD]* | *[TBD]* | *In Concept* | *Coming soon* | *Coming soon* |
