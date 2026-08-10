@@ -21,7 +21,8 @@ I am fully open to joining a game studio where I can share, combine, and elevate
 | *[Next Project]* | *[TBD]* | *[TBD]* | *In Concept* | *Coming soon* | *Coming soon* |
 
 ## 🗂️ Level Design
+[Repository](https://github.com/lacarceldev/level-design)
 
 | Project Name | Genre | Engine | Studio | Documentation |
 | :---: | :---: | :---: | :---: | :---: |
-| **Tactical Arena** | FPS / Tactical Arena | UE5 | Personal Concept | [Repository](https://github.com/lacarceldev/level-design) |
+| **Tactical Arena** | FPS / Tactical Arena | UE5 | Personal Concept |  |
