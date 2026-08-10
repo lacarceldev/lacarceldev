@@ -25,4 +25,4 @@ I am fully open to joining a game studio where I can share, combine, and elevate
 
 | Project Name | Genre | Engine | Studio | Documentation |
 | :---: | :---: | :---: | :---: | :---: |
-| **Tactical Arena** | FPS / Tactical Arena | UE5 | Personal Concept | [Repository](https://github.com/lacarceldev/level-design/blob/main/docs/TacticalArena.pdf) |
+| **Tactical Arena** | FPS / Tactical Arena | UE5 | Personal Concept | [Greybox](https://github.com/lacarceldev/level-design/blob/main/docs/TacticalArena.pdf) |
