@@ -7,9 +7,9 @@ If you find my work interesting and would like to collaborate or have me join on
 
 I am fully open to joining a game studio where I can share, combine, and elevate my skills alongside other passionate professionals to create what we do best: **art!**
 
-📬 **Contact:** pthejail97@gmail.com
----
 
+---
+📬 **Contact:** pthejail97@gmail.com
 ## 🗂️ Project Catalog
 
 | Project Name | Genre | Engine | Studio | Year / Status | Documentation |
