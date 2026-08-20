@@ -7,9 +7,8 @@ If you find my work interesting and would like to collaborate or have me join on
 
 I am fully open to joining a game studio where I can share, combine, and elevate my skills alongside other passionate professionals to create what we do best: **art!**
 
----
-
 📬 **Contact:** pthejail97@gmail.com
+---
 
 ## 🗂️ Project Catalog
 
@@ -24,7 +23,7 @@ I am fully open to joining a game studio where I can share, combine, and elevate
 
 | Name | Description | Engine | Native Version | Language | Documentation |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| **Runtime Data Layer Manager* | *Dynamic runtime loading/unloading and Data Layer state persistence.* | *Unreal Engine* | *5.8* | *Blueprint* | [Repository](https://github.com/lacarceldev/data-layer-manager) |
+| **Runtime Data Layer Manager** | *Dynamic runtime loading/unloading and Data Layer state persistence.* | *Unreal Engine* | *5.8* | *Blueprint* | [Repository](https://github.com/lacarceldev/data-layer-manager) |
 
 ## 🗂️ Level Design
 [Repository](https://github.com/lacarceldev/level-design)
