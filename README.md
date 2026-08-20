@@ -20,6 +20,12 @@ I am fully open to joining a game studio where I can share, combine, and elevate
 | **Masacre del Norte** | Narrative / Tactical 3rd-Person Stealth | UE5 | TFM Project | 2025 / Concept | [Repository](https://github.com/lacarceldev/masacre-del-norte) |
 | *[Next Project]* | *[TBD]* | *[TBD]* | *In Concept* | *Coming soon* | *Coming soon* |
 
+## 🗂️ Plugin Catalog
+
+| Name | Description | Engine | Native Version | Language | Documentation |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| **Runtime Data Layer Manager* | *Dynamic runtime loading/unloading and Data Layer state persistence.* | *Unreal Engine* | *5.8* | *Blueprint* | [Repository](https://github.com/lacarceldev/data-layer-manager) |
+
 ## 🗂️ Level Design
 [Repository](https://github.com/lacarceldev/level-design)
 
